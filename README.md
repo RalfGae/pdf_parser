@@ -12,6 +12,6 @@ This is a small project to parse PDFs into text using some AI models.
 
 | Open Point List | Status |
 |:-----|:-------|
-| Initial setup using kosmos-2-patch14-224 | In Progress |
+| Initial setup using kosmos-2-patch14-224 | Removed |
 | Add Error Handling | Open |
-| Evaluate OCR | Open |
+| Evaluate OCR (Tesseract) | In Progress |
